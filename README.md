@@ -13,11 +13,11 @@
 - 🤝 And I like to be your friend, dear
 
 # My skills
-- python/django
-- html/css/javascript
-- machine learning
-- data science
-- javascript games/canvas
+- 🐎 python/django
+- 🐍 html/css/javascript
+- 🤖 machine learning
+- 🔬 data science
+- 🎮 javascript games/canvas
 
 <!---
 tushar-ramgirkar/tushar-ramgirkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
