@@ -8,6 +8,8 @@
 - 🏡 I'm Indian, from Chandrapur, Maharashtra
 - ❤ I love to code games with javascript
 - 🔍 Discovering and studying new projects is my hobby
+- 😍 My favorite programming language is python
+- 🤝 And I like to be your friend, dear
 
 <!---
 tushar-ramgirkar/tushar-ramgirkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
