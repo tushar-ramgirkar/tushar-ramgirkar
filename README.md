@@ -12,6 +12,13 @@
 - 😍 My favorite programming language is python
 - 🤝 And I like to be your friend, dear
 
+# My skills
+- python/django
+- html/css/javascript
+- machine learning
+- data science
+- javascript games/canvas
+
 <!---
 tushar-ramgirkar/tushar-ramgirkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
