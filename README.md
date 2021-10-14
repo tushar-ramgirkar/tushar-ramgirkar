@@ -6,7 +6,7 @@
 - 📫 I'm studying in eleventh grade
 - 📠 My dream is to become a data scientists
 - 🏡 I'm Indian, from Chandrapur, Maharashtra
-- ❤ I love to code web pages.
+- ❤ I love to code games with javascript
 - 🔍 Discovering and studying new projects is my hobby
 
 <!---
